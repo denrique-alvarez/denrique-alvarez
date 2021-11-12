@@ -1,5 +1,3 @@
-<div align="center">
-
 ## Hello everyone! ¡Soy Daniel
 
  I am from Medellín, Colombia and I have a background in **_Linguistics and literature_** and I am just getting started with my journey in Web Development. **I love self-teaching and enjoy the creative side of web development as well as the constant exploration**. I’m interested in anything front-end related as it is my current focus!
@@ -21,5 +19,3 @@
 ## Founder at CaminoLanguages
 
  [![Webpage Icon](https://user-images.githubusercontent.com/90314185/132673976-c0297eb9-1fec-464d-8193-19f7f6b21d31.png)](https://caminolanguages.com/)
-
-</div>
