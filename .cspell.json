@@ -1,7 +1,9 @@
 {
   "language": "en",
   "words": [
-    "Álvarez"
+    "Álvarez",
+    "Camino",
+    "Medellín"
   ],
   "ignorePaths": [
     "node_modules/**",
