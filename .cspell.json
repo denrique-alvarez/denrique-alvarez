@@ -1,8 +1,6 @@
 {
   "language": "en",
-  "words": [
-    "Álvarez"
-  ],
+  "words": [],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
