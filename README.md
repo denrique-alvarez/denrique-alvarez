@@ -1,4 +1,4 @@
-## Hello everyone! ¡Soy Daniel
+## Hello everyone! ¡Soy Daniel!
 
  I am from Medellín, Colombia and I have a background in **_Linguistics and literature_** and I am just getting started with my journey in Web Development. **I love self-teaching and enjoy the creative side of web development as well as the constant exploration**. I’m interested in anything front-end related as it is my current focus!
 
