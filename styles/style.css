@@ -1,4 +1,5 @@
 :root {
+    --font-logo: "Estonia", cursive;
     --font-heading: "IBM Plex Serif", serif;
     --font-paragraph: "IBM Plex Mono", monospace;
     --primary: #011e5c;
@@ -80,4 +81,15 @@ img {
 
 .center-text {
     text-align: center;
+}
+
+
+/* LOGO/NAME */
+
+.logo--name {
+    font-family: var(--font-logo);
+    font-size: 70px;
+    color: #000;
+    text-align: left;
+    margin-left: 36px;
 }
