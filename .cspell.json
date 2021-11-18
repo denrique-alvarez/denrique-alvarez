@@ -3,7 +3,8 @@
   "words": [
     "Álvarez",
     "Camino",
-    "Medellín"
+    "Medellín",
+    "Plex"
   ],
   "ignorePaths": [
     "node_modules/**",
